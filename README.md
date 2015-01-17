@@ -23,6 +23,10 @@ at least version 1.5 is needed for correct rendering of the files. Especially fo
 
 http://asciidoctor.org/
 
+#### pygments.rb
+
+For code highlighting, pygments.rb is also used. Pygments.rb can be installed using gem, `gem install pygments.rb`.
+
 #### FO-pub
 
 if you want to generate ftp output, install asciidoctor-fopub:
